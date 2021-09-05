@@ -1,6 +1,6 @@
 I'm Antony. I've been programming for over 10 years and I'm mostly self-taught. During those 10 years, I've gained 2 years of professional experience so far.
 
-I'm new to GitHub, and there's still a lot out there for me to learn.
+I'm new to GitHub, and there's still a lot out there for me to learn. When I first started programming, I was honestly too scared to get on here. Still am, but it's finally time to bite the bullet.
 
 My strengths are AutoHotkey, JavaScript, PHP, HTML/CSS, Python, VBScript, Visual Basic (mostly 6.0), and most types of SQL; and I'm learning more about Java and C++ (more comfortable with Java).
 
