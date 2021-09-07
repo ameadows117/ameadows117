@@ -1,4 +1,4 @@
-I'm Antony. I've been programming for over 10 years and I'm mostly self-taught. During those 10 years, I've gained 2 years of professional experience so far.
+I'm Antony. I've been programming for over 10 years and I'm mostly self-taught. During those 10 years, I've gained 2 years of professional experience so far. I'm 22 years old.
 
 Don't flame me too hard for some of the stuff you see in here, though.
 
