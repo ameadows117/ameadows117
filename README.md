@@ -1,6 +1,6 @@
 I'm Antony. I've been programming for over 10 years and I'm mostly self-taught. During those 10 years, I've gained 2 years of professional experience so far.
 
-Don't flame me too hard, though.
+Don't flame me too hard for some of the stuff you see in here, though.
 
 I'm new to GitHub, and there's still a lot out there for me to learn. When I first started programming, I was honestly too scared to get on here. Still am, but it's finally time to bite the bullet.
 
