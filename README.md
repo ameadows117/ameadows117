@@ -8,4 +8,4 @@ My strengths are AutoHotkey, JavaScript, PHP, HTML/CSS, Python, VBScript, Visual
 
 I've mastered all Windows Operating Systems (95 and later); I am fluent in most Linux systems, and used a Mac twice (one was to look for jobs - I couldn't even open the browser, the last time was to [successfully] remove malware for a friend).
 
-My favorite thing to do is learn. If you have a project that you'd consider my skills for, send me an email at ameadows117@gmail.com with a link to your profile. Additionally, if you want to mentor me; do the same - I would greatly appreciate it.
+My favorite thing to do is learn. If you have a project that you'd consider my skills for, send me an email (https://mailhide.io/e/nw8QmkeH) with a link to your profile. Additionally, if you want to mentor me; do the same - I would greatly appreciate it.
