@@ -1,6 +1,6 @@
 I'm Antony. I'm 23½ years old. I've been programming for over 10 years and I'm mostly self-taught. During those 10 years, I've gained 4 years of professional experience in various areas within IT so far—including help desk, ERP systems/programming, and data analysis.
 
-Most of the code you'll see here needs improvement.
+So anyway, most of the code you'll see here needs improvement.
 
 …but it works.
 
