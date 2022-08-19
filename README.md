@@ -6,4 +6,4 @@ Most of the code you'll see here needs improvement.
 
 I speak fluent AutoHotkey/AHK, PHP, JavaScript, NodeJS, HTML/CSS, Python, VBScript, Visual Basic (mostly 6.0), and most types of SQL; and I'm learning more about Java and C++ (more comfortable with Java). I have a couple of active projects in AHK, a few passive ones in PHP, and a C++ project (somewhat) in the works at the moment. I'm primarily focused on work and school right now, but wish to learn more about multithreading, AI/ML, linear algebra, and Windows under the hood after my studies are complete.
 
-My favorite thing to do is learn. If you have a project that you'd consider my skills for, send me an email (https://mailhide.io/e/nw8QmkeH) with a link to your profile. Feedback and advice are absolutely welcome, too.
+My favorite thing to do is learn. If you have a project that on which you'd maybe like my input or wanted to collaborate, send me an email (https://mailhide.io/e/nw8QmkeH) with a link to your profile. Feedback and advice are absolutely welcome, too.
